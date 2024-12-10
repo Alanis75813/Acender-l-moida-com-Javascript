@@ -1,4 +1,4 @@
 # Acender-lâmpida-com-Javascript
 
-##Ness código é uma animação bem básica com javascript, onde o usuário passar o mouse a lâmpada sobre a mesma acende e assim que tira ela apagga. 
+##É uma animação bem básica com javascript, onde o usuário passa o mouse sobre a lâmpida ela acende e assim que tira ela apaga. 
 Porém quando clicada se quebra e não volta, a não ser recarregar a página##
